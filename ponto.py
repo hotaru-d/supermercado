@@ -4,3 +4,6 @@ ler_cartao
 #calma filha
 #favor retire seu cartao x20
 #sair estressado do mercado
+
+dando errado:
+#falando com a gerente de novo
